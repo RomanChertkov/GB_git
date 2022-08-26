@@ -28,3 +28,7 @@
 ## Базовый синтаксис markdown
 
 [Базовый синтаксис markdown](https://www.markdownguide.org/basic-syntax/).
+
+## Ссылка на статью по теме
+
+[Статья на хабре](https://habr.com/ru/post/541258/).
